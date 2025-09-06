@@ -76,6 +76,13 @@ The project is structured following the **CRISP-DM methodology** to ensure a sys
 
 ---
 
+## 📁 Additional Files
+
+The full notebook with all outputs is too large for GitHub.  
+You can download the complete version from Google Drive here: https://drive.google.com/file/d/1iBQfGlNeZ4Z4y0Ix78iORKldkJDmTQ8Y/view?usp=sharing
+
+---
+
 ### 👨‍🎓 Author
 
 **Nelson Josue Pineda Mendez**  
